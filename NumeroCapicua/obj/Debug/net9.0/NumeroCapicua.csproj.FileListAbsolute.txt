@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Documentos\Escritorio\CS\NumeroCapicua\bin\Debug\net9.0\NumeroCapicua.exe
+C:\Users\HP\OneDrive\Documentos\Escritorio\CS\NumeroCapicua\bin\Debug\net9.0\NumeroCapicua.deps.json
+C:\Users\HP\OneDrive\Documentos\Escritorio\CS\NumeroCapicua\bin\Debug\net9.0\NumeroCapicua.runtimeconfig.json
+C:\Users\HP\OneDrive\Documentos\Escritorio\CS\NumeroCapicua\bin\Debug\net9.0\NumeroCapicua.dll
+C:\Users\HP\OneDrive\Documentos\Escritorio\CS\NumeroCapicua\bin\Debug\net9.0\NumeroCapicua.pdb
+C:\Users\HP\OneDrive\Documentos\Escritorio\CS\NumeroCapicua\obj\Debug\net9.0\NumeroCapicua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documentos\Escritorio\CS\NumeroCapicua\obj\Debug\net9.0\NumeroCapicua.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documentos\Escritorio\CS\NumeroCapicua\obj\Debug\net9.0\NumeroCapicua.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documentos\Escritorio\CS\NumeroCapicua\obj\Debug\net9.0\NumeroCapicua.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documentos\Escritorio\CS\NumeroCapicua\obj\Debug\net9.0\NumeroCapicua.dll
+C:\Users\HP\OneDrive\Documentos\Escritorio\CS\NumeroCapicua\obj\Debug\net9.0\refint\NumeroCapicua.dll
+C:\Users\HP\OneDrive\Documentos\Escritorio\CS\NumeroCapicua\obj\Debug\net9.0\NumeroCapicua.pdb
+C:\Users\HP\OneDrive\Documentos\Escritorio\CS\NumeroCapicua\obj\Debug\net9.0\NumeroCapicua.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Documentos\Escritorio\CS\NumeroCapicua\obj\Debug\net9.0\ref\NumeroCapicua.dll
